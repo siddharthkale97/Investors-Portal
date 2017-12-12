@@ -8,7 +8,7 @@ $row=mysqli_fetch_assoc($res);
 ?>
 <!DOCTYPE html>
 <html>
-<title>W3.CSS Template</title>
+<title>Dashboard</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="ourcss.css">
@@ -162,7 +162,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <i class="fa fa-pinterest-p w3-hover-opacity"></i>
     <i class="fa fa-twitter w3-hover-opacity"></i>
   </div>
-  <h5>Disclamer-</h5><h6> We only act as an agent to find potential starups for Investors and we are not responsible for any deal cancellation or alteration.<br>
+  <h5>Disclamer-</h5><h6> We only act as an agent to find potential startups for Investors and we are not responsible for any deal cancellation or alteration.<br>
   Our reach to the marketing targets are subject to the market climate and may not be 100% accurate.<br>
   Pricing of the plans we offer may get infalted.</h6>
   <a href="#" class="w3-button w3-black w3-margin"><i class="fa fa-arrow-up w3-margin-right"></i>Go to TOP</a>
